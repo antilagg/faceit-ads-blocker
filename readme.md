@@ -1,6 +1,6 @@
 ### faceit-ads-blocker
 
-Removes the ads and the premium banner from the FACEIT desktop client by patching electron. Ad network requests are blocked as well.
+Removes the ads and the premium banner from the FACEIT desktop client by patching electron Ad network requests are blocked as well
 
 ![Preview](./assets/gen.jpg)
 
@@ -23,4 +23,4 @@ npm install
 node index.js
 ```
 
-Not affiliated with FACEIT, i been using it without any problems for two weeks. use it at your own risk. "
+Not affiliated with FACEIT, i been using it without any problems for two weeks. use it at your own risk. 
