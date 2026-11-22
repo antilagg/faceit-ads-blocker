@@ -2,7 +2,7 @@
 
 Removes the ads and the premium banner from the FACEIT desktop client by patching electron Ad network requests are blocked as well
 
-![Preview](./assets/gen.jpg)
+![Preview](./assets/image.png)
 
 ## Requirements
 
