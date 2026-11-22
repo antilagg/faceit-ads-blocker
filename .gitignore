@@ -4,3 +4,4 @@ backup/
 *.log
 app.asar.new
 app.asar.new.unpacked/
+*.md
